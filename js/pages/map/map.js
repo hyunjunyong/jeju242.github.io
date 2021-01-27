@@ -1,6 +1,6 @@
 var disqus_shortname = 'project-jeju';
         var disqus_identifier = 'place.place_name';
-        var disqus_url = 'http://project-jeju.disqus.com/embed.js';
+        var disqus_url = 'https://project-jeju.disqus.com/embed.js';
         var disqus_config = function () { 
           this.language = "en";
         };
@@ -8,7 +8,7 @@ var disqus_shortname = 'project-jeju';
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = 'http://project-jeju.disqus.com/embed.js';
+            dsq.src = 'https://project-jeju.disqus.com/embed.js';
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
         })();
     
